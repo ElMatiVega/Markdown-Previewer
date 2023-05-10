@@ -2,7 +2,7 @@
 
 This projects was from freeCodeCamp Front End Development Libraries Projects. The task was to build a Markdown Previewer. For the solution I was using react library 'react-markdown'.
 
-Live Preview https://freecodecamp-build-a-markdown-previewer.vercel.app/
+
 
 
 # Getting Started with Create React App
